@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ilkhaber">ilkhaber</string>
+    <string name="ikincihaber">ikincihaber</string>
+    <string name="ucuncuhaber">ucuncuhaber</string>
+</resources>
